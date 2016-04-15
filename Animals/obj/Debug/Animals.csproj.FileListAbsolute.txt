@@ -1,0 +1,12 @@
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.pdb
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
+C:\Users\PC-PC\documents\visual studio 2015\Projects\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\bin\Debug\Animals.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Inheritance and abstraction\HomeWorkInheritanceAndAbstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
